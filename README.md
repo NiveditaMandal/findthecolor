@@ -1,4 +1,4 @@
-﻿# findthecolor
+﻿# Color Game
  Website: https://findthecolor.herokuapp.com/
 
 findthecolor is a color picking game written in HTML, CSS and JavaScript.
